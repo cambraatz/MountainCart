@@ -10,6 +10,6 @@ The agent does not have the sheer power to drive directly uphill to the flag, in
 
 https://github.com/user-attachments/assets/8229b780-892b-4f8b-80ab-cf080abb7184
 
-Please refer to `IntoToGymnasium.ipynb` for the complete project notebook. Note: Video files do not seem to be rendering correctly in the GitHub environment, please see `https://github.com/cambraatz/MountainCart/assets` for all figures and videos used in the Python notebook.
+Please refer to `IntroToGymnasium.ipynb` for the complete project notebook. Note: Video files do not seem to be rendering correctly in the GitHub environment, please see `https://github.com/cambraatz/MountainCart/assets` for all figures and videos used in the Python notebook.
 
 <a href="https://gymnasium.farama.org/environments/classic_control/mountain_car/">OpenAI Gym: Mountain Cart</a>
